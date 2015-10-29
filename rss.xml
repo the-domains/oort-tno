@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Oort (TNO)]]></title>
         <description><![CDATA[Oort (TNO)]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oort-tno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 17:13:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 17:16:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oort-tno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[663 Whitestone (part 1) by Oort (TNO)]]></title>
             <description><![CDATA[<article><h1>663 Whitestone (part 1) by Oort (TNO)</h1><p>Stream 663 Whitestone (part 1) by Oort (TNO) from desktop or your mobile device</p><img src="http://i1.sndcdn.com/artworks-000126836845-7jlfif-t500x500.jpg"></article>]]></description>
             <link>https://soundcloud.com/oort-tno/663-whitestone</link>
             <guid isPermaLink="false">41afee38-6ab0-4879-8a87-62233a85efe9</guid>
-            <pubDate>Thu, 29 Oct 2015 17:12:59 GMT</pubDate>
+            <pubDate>Thu, 29 Oct 2015 17:15:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
