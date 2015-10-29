@@ -1,0 +1,23 @@
+name: Oort (TNO)
+favicon: null
+layout_spectrum: 0.9180684818420559
+typography_spectrum: 0.8272633603774011
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8017572299577296
+  lightness: 0.23442879016511142
+  saturation: 0.23677635565400124
+  rhythmicContrast: 0.9477666919119656
+purpose: []
