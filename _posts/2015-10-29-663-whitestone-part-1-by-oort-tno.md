@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://soundcloud.com'
   name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 keywords: []
 description: Stream 663 Whitestone (part 1) by Oort (TNO) from desktop or your mobile device
 app_links:
@@ -24,13 +24,16 @@ app_links:
     type: android
 isBasedOnUrl: 'https://soundcloud.com/oort-tno/663-whitestone'
 title: 663 Whitestone (part 1) by Oort (TNO)
-datePublished: '2015-10-29T17:12:59.903Z'
-dateModified: '2015-10-29T17:12:32.216Z'
+datePublished: '2015-10-29T17:15:46.173Z'
+dateModified: '2015-10-29T17:15:41.122Z'
 sourcePath: _posts/2015-10-29-663-whitestone-part-1-by-oort-tno.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: AudioObject
 _context: 'http://schema.org'
 
