@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/oort-tno/663-whitestone'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Stream 663 Whitestone (part 1) by Oort (TNO) from desktop or your mobile device
-datePublished: '2015-10-30T12:05:41.029Z'
-dateModified: '2015-10-30T12:05:37.243Z'
+datePublished: '2015-10-30T12:20:27.899Z'
+dateModified: '2015-10-30T12:20:23.229Z'
 author:
   - name: Oort (TNO)
     url: 'http://soundcloud.com/oort-tno'
@@ -34,6 +33,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+url: 663-whitestone-part-1-by-oort-tno/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
