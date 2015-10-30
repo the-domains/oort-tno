@@ -4,7 +4,7 @@
         <description><![CDATA[Oort (TNO)]]></description>
         <link>https://thegrid.ai/oort-tno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 11:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 12:00:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oort-tno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[663 Whitestone (part 1) by Oort (TNO)]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/oort-tno/c44bde51-1f79-4935-acfb-243293154938/index.html</link>
             <guid isPermaLink="false">c44bde51-1f79-4935-acfb-243293154938</guid>
             <pubDate>Fri, 30 Oct 2015 11:53:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa7d75c3-0b23-4f1b-8fd5-e54f5ec840da.JPG">]]></description>
-            <link>https://thegrid.ai/oort-tno/dc477a51-9dc3-4cd5-841a-b99e64bba187/index.html</link>
-            <guid isPermaLink="false">dc477a51-9dc3-4cd5-841a-b99e64bba187</guid>
-            <pubDate>Fri, 30 Oct 2015 11:52:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
