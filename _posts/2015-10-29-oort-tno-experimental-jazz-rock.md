@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-10-30T11:55:07.751Z'
-dateModified: '2015-10-30T11:54:59.999Z'
+datePublished: '2015-10-30T12:04:00.763Z'
+dateModified: '2015-10-30T12:03:57.045Z'
 title: 'Oort (TNO): Experimental Jazz Rock'
+sourcePath: _posts/2015-10-29-oort-tno-experimental-jazz-rock.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-29-oort-tno-experimental-jazz-rock.md
-published: true
-_type: Blurb
+url: oort-tno-experimental-jazz-rock/index.html
+_type: Article
 
 ---
 # Oort (TNO): Experimental Jazz Rock
