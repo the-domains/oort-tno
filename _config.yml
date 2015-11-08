@@ -1,6 +1,6 @@
 name: Oort (TNO)
 favicon: null
-layout_spectrum: 0.84111
+layout_spectrum: 1
 typography_spectrum: 0.73014
 collections:
   - index:
