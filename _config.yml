@@ -1,7 +1,7 @@
 name: Oort (TNO)
 favicon: null
-layout_spectrum: 0.86633
-typography_spectrum: 0.73014
+layout_spectrum: 0
+typography_spectrum: 0.52333
 collections:
   - index:
       navigable: true
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#88030C'
-    - '#FFAB54'
-    - '#904342'
-    - '#BCAC9A'
-    - '#FFFDFC'
+    - '#fbfbfb'
+    - '#3d63ae'
+    - '#6a7da8'
+    - '#161a1d'
+    - '#675e4b'
   brandStrength: 1
-  lightness: 0.5625
-  saturation: 0.875
-  rhythmicContrast: 0.9477666919119656
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
