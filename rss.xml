@@ -4,7 +4,7 @@
         <description><![CDATA[Oort (TNO)]]></description>
         <link>https://thegrid.ai/oort-tno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 15:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 16:55:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oort-tno/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Oort (TNO)]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.ai/oort-tno/2fa96622-cde9-4eba-abc1-b4143d304db0/index.html</link>
             <guid isPermaLink="false">2fa96622-cde9-4eba-abc1-b4143d304db0</guid>
             <pubDate>Mon, 09 Nov 2015 15:43:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbfc755f-b0ba-4b75-8f41-9e5bb196f300.JPG">]]></description>
-            <link>https://thegrid.ai/oort-tno/9ca388f7-b1f4-4141-a00f-557686aa6e6e/index.html</link>
-            <guid isPermaLink="false">9ca388f7-b1f4-4141-a00f-557686aa6e6e</guid>
-            <pubDate>Fri, 30 Oct 2015 11:54:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
