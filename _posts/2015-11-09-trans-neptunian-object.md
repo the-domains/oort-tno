@@ -7,17 +7,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-09T15:41:52.624Z'
-dateModified: '2015-11-09T15:41:40.320Z'
+datePublished: '2015-11-12T15:34:52.466Z'
+dateModified: '2015-11-12T15:34:47.871Z'
 title: Trans-Neptunian object
+sourcePath: _posts/2015-11-09-trans-neptunian-object.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-09-trans-neptunian-object.md
-published: true
 _type: Blurb
 
 ---
