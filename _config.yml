@@ -1,11 +1,11 @@
-layout_spectrum: 0.8920742
+layout_spectrum: 1
 favicon: null
 name: Oort (TNO)
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 1
-  lightness: 0
   saturation: 1
-  rhythmicContrast: 1
   brandColors:
     - '#4B2720'
     - '#E1B391'
     - '#53789A'
     - '#BDA316'
     - '#FFFFFB'
-typography_spectrum: 0.8507589
+  lightness: 0
+  rhythmicContrast: 1
+typography_spectrum: 0.5860034
